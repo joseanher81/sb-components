@@ -1,7 +1,7 @@
 import './mylabel.css';
 import { AllCaps } from '../stories/components/MyLabel.stories';
 
-interface MyLabelProps {
+export interface MyLabelProps {
      /**
      * This is the text to be displayed in the label
      */
